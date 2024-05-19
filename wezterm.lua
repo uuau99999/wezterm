@@ -14,7 +14,7 @@ config.window_background_opacity = 0.6
 config.macos_window_background_blur = 15
 config.window_decorations = "RESIZE"
 config.colors = {
-	cursor_bg = "#21c7a8",
+	cursor_bg = "#a5e179",
 }
 
 -- and finally, return the configuration to wezterm
